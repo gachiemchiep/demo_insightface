@@ -89,6 +89,21 @@ Go to [model zoo](https://github.com/deepinsight/insightface/wiki/Model-Zoo), th
 
 ```
 
+## Some result here
+
+## use the insightface api python 
+
+Use source code at [http://insightface.ai/](http://insightface.ai/)
+
+[![Test on GPU](http://img.youtube.com/vi/omZ3KJZ6BiU/0.jpg)](http://www.youtube.com/watch?v=omZ3KJZ6BiU "Test on GPU")
+
+[![Test on GPU](http://img.youtube.com/vi/ZHsXuBfwDf0/0.jpg)](http://www.youtube.com/watch?v=ZHsXuBfwDf0 "Test on CPU")
+
+Note : by default, there're 3 different models inside. so the total inference speed is a little slow
+
+-> we only need to extract the face, landmark and the embedding vector
+-> we don't need to use the GA model
+
 ## Reference
 
 1. https://llvm.org/docs/GettingStarted.html
